@@ -1,4 +1,4 @@
-![logo](https://github.com/samibarankorkmaz/samibarankorkmaz/blob/main/giphy.gif?raw=true)
+![logo]([https://github.com/samibarankorkmaz/samibarankorkmaz/blob/main/giphy.gif?raw=true](https://github.com/samibarankorkmaz/samibarankorkmaz/blob/main/banner-5250178_960_720.jpg))
 <h1 align="center">Hi 👋, I'm Baran!</h1>
 <h3 align="center">a pinch of stardust exploring the universe</h3>
 
