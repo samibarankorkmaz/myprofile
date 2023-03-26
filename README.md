@@ -12,7 +12,9 @@
   - I’m currently working on: <h4>Computer Vision</h4>
   - I’m currently learning: <h4>OpenCV, MediaPipe, Numpy, PyTorch, YOLO, Sci-Kit</h4>
   - How to reach me: <h4>bkwebtr@gmail.com</h4>
-
+<div class="container">
+  <h1 class="heading" data-target-resolver></h1>
+</div>
 
 
 <h3 align="center">Socials</h3>
