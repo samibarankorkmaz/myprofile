@@ -1,4 +1,5 @@
-![logo](https://github.com/samibarankorkmaz/samibarankorkmaz/blob/main/banner-5250178_960_720.jpg)
+![997847-fsociety-Mr -Robot-logo-4K-digital-art-fan-art](https://user-images.githubusercontent.com/71467992/227808328-3c86095d-0988-4d6c-8450-e98c5a9193ee.jpg)
+
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/71467992/227808198-1cec7aca-fb25-4d69-a39b-af97faff2a97.svg)
 
 <h1 align="center">Hi 👋, I'm Baran!</h1>
