@@ -1,4 +1,6 @@
 ![logo](https://github.com/samibarankorkmaz/samibarankorkmaz/blob/main/banner-5250178_960_720.jpg)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/71467992/227808198-1cec7aca-fb25-4d69-a39b-af97faff2a97.svg)
+
 <h1 align="center">Hi 👋, I'm Baran!</h1>
 <h3 align="center">a pinch of stardust exploring the universe</h3>
 
