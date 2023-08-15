@@ -22,7 +22,7 @@
 <a href="https://kaggle.com/samibarankorkmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samibarankorkmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/samibarankorkmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@samibarankorkmaz" height="30" width="40" /></a>
 <a href="https://medium.com/@samibarankorkmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samibarankorkmaz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/samibarankorkmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samibarankorkmaz" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/samibarankorkmaz](https://www.youtube.com/channel/UCJuaXHktsqpibcWOr735VUg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samibarankorkmaz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mrreboot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mrreboot" height="30" width="40" /></a>
 </p>
 
